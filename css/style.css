@@ -1,0 +1,75 @@
+body{
+	margin: 0px;
+}
+header{
+	background: #3E5C99;
+	padding: 10px 0px;
+}
+.container{
+	width: 1000px;
+	margin: auto;
+	overflow: hidden;
+}
+.logo{
+	width: 50%;
+	float: left;
+}
+.logo a{
+    font-size: 45px;
+    color: #fff;
+    text-transform: lowercase;
+    text-decoration: none;
+    font-weight: 600;
+}
+.login{
+	width: 50%;
+	float: left;
+}
+form{
+	overflow: hidden;
+}
+.input{
+	width: 40%;
+	float: left;
+	padding: 8px;
+	box-sizing: border-box;
+}
+label{
+	color: #fff;
+	width: 100%;
+}
+.input input{
+	width: 100%;
+	margin: 10px 0px;
+	border: 1px solid #000;
+	padding: 5px 10px;
+	box-sizing: border-box;
+}
+.input a{
+	color: #ffffff87;
+	text-decoration: none;
+}
+.submit{
+	width: 20%;
+	float: left;
+}
+.submit input{
+	background: #3578E5;
+	border: 1px solid #000;
+	color: #fff;
+	padding: 5.5px 18px;
+	border-radius: 3px;
+	margin-top: 35px;
+}
+.portfolio-section{
+	padding: 50px 50px;
+}
+.portfolio{
+	width: 25%;
+	float: left;
+	padding: 15px;
+	box-sizing: border-box;
+}
+.portfolio a img{
+	max-width: 100%;
+}
